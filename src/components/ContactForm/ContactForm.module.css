@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-bottom: 50px;
+}
+
+.field {
+  margin-bottom: 15px;
+}
+
+.button {
+  width: 100px;
+  align-self: center;
+}
